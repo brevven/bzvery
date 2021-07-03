@@ -1,0 +1,19 @@
+{
+    "name": "bzvery",
+    "version": "0.1.0",
+    "factorio_version": "1.1",
+    "title": "Very BZ",
+    "author": "Brevven",
+    "contact": "",
+    "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=98515",
+    "dependencies": [
+      "bz-dsr-bridge",
+      "bzlead",
+      "bzsilicon",
+      "bztitanium",
+      "bztungsten",
+      "bzzirconium"
+    ],
+    "description": "Mod pack for all BZ Mods including Titanium, Lead, Tungsten, Silicon, Zirconium. Turns on some settings by default, but adds nothing new to the game itself."
+}
+
