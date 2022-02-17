@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2021-01-29
+  Features:
+    - Added Foundry to the modpack. Some parts still might change, but it seems ready.
+      Due to this, Advanced Carbon Furnace will no longer be available in the full modpack.
+      If either of these changes break your factory, recommend staying at 0.1.0
+    - Silica & Silicon MEMS gyroscope is enabled by default (can be turned off)
+    - New thumbnail
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2021-05-18
   Features:
