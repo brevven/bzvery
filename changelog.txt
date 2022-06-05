@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2021-02-17
+  Features:
+    - Added Graphite & Diamonds to the modpack.
+      Stay at 0.2.0 if this breaks your factory.
+    - Carbon black will be enabled by default. This modifies oil processing. Can be turned off.
+    - Diamond reuse in low density structures is on by default. Can be turned off.
+    - Foundry refractory recipes will now be turned on by default. Can be turned off.
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2021-01-29
   Features:
