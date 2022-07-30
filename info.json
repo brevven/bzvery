@@ -1,6 +1,6 @@
 {
     "name": "bzvery",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "factorio_version": "1.1",
     "title": "Very BZ",
     "author": "Brevven",
@@ -8,6 +8,7 @@
     "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=98515",
     "dependencies": [
       "bz-dsr-bridge",
+      "bzaluminum",
       "bzcarbon",
       "bzfoundry",
       "bzlead",
