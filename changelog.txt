@@ -1,11 +1,23 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.5.1
+Date: 2022-12-05
+  Features:
+    - Copper Tungsten is enabled by default now. Can be turned off. 
+      This update should not break any existing factories.
+---------------------------------------------------------------------------------------------------
+Version: 0.5.0
+Date: 2022-11-21
+  Features:
+    - Added Tin and Natural Gas to the modpack. Stay at 0.4.0 if this breaks your factory.
+    - Bronze and tinned cable enabled by default. Can be turned off.
+---------------------------------------------------------------------------------------------------
 Version: 0.4.0
-Date: 2021-06-05
+Date: 2022-06-05
   Features:
     - Added Aluminum to the modpack.  Stay at 0.3.0 if this breaks your factory.
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.0
-Date: 2021-02-17
+Date: 2022-02-17
   Features:
     - Added Graphite & Diamonds to the modpack.
       Stay at 0.2.0 if this breaks your factory.
@@ -14,7 +26,7 @@ Date: 2021-02-17
     - Foundry refractory recipes will now be turned on by default. Can be turned off.
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.0
-Date: 2021-01-29
+Date: 2022-01-29
   Features:
     - Added Foundry to the modpack. Some parts still might change, but it seems ready.
       Due to this, Advanced Carbon Furnace will no longer be available in the full modpack.
